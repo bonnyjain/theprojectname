@@ -1,0 +1,3 @@
+#!/home/bjain/Projects/test_project/theprojectname/theprojectname-venv/bin/python3.8
+from requirements_detector.run import run
+run()
